@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\serveces\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\serveces\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\infrastructure\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\unitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\configurations\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\configurations\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C25A2-2804-474E-9D6D-CD5C8E5F777D}|Domain\\Domain.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\domain\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C25A2-2804-474E-9D6D-CD5C8E5F777D}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\configurations\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\configurations\\servicesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\configurations\\servicesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\configurations\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\configurations\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\infrastructure\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\iunitofwork .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C25A2-2804-474E-9D6D-CD5C8E5F777D}|Domain\\Domain.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C25A2-2804-474E-9D6D-CD5C8E5F777D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707C25A2-2804-474E-9D6D-CD5C8E5F777D}|Domain\\Domain.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\domain\\dtos\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707C25A2-2804-474E-9D6D-CD5C8E5F777D}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\doctorbooking_backend\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A97BCDD5-366E-46E0-8746-8D5CA0A048E0}|DoctorBooking_Backend\\Presentation.csproj|solutionrelative:doctorbooking_backend\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\infrastructure\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\infrastructure\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repo\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|c:\\users\\userr\\desktop\\doctorbooking_backend\\infrastructure\\migrations\\20251126164145_createinital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5467C296-7D9E-4DD8-9A37-867B0D0815E8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20251126164145_createinital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7615f12e-922a-545a-b9a0-3305b93d08c0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Program.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:23:07.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:33:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\appsettings.json",
+              "RelativeToolTip": "DoctorBooking_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T15:30:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Domain\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Domain\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "Domain\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:15:02.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\UnitOfWork .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\UnitOfWork .cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\UnitOfWork .cs",
+              "RelativeToolTip": "Infrastructure\\UnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:23:18.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Configurations\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\JwtConfig.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Configurations\\JwtConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:50:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServicesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\ServicesConfig.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Configurations\\ServicesConfig.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\ServicesConfig.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Configurations\\ServicesConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:50:56.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DoctorBooking_Backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T15:31:59.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Configurations\\MapperConfig.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\MapperConfig.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Configurations\\MapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:54:03.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Serveces\\AuthService.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Serveces\\AuthService.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Serveces\\AuthService.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Serveces\\AuthService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:03:54.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Configurations\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\SwaggerConfig.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Configurations\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T19:30:52.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Configurations\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Configurations\\DatabaseConfig.cs",
+              "RelativeToolTip": "DoctorBooking_Backend\\Configurations\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:50:06.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:55:04.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUnitOfWork .cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\IUnitOfWork .cs",
+              "RelativeDocumentMoniker": "Infrastructure\\IUnitOfWork .cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\IUnitOfWork .cs",
+              "RelativeToolTip": "Infrastructure\\IUnitOfWork .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:23:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Domain\\Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:14:27.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Domain\\DTOs\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Domain\\DTOs\\JwtSettings.cs",
+              "RelativeToolTip": "Domain\\DTOs\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T18:37:24.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\Repo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repo\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\Repo\\GenericRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Repo\\GenericRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:46:43.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\Repo\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "Infrastructure\\Repo\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywBAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:47:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Presentation.csproj",
+              "RelativeDocumentMoniker": "DoctorBooking_Backend\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\DoctorBooking_Backend\\Presentation.csproj",
+              "RelativeToolTip": "DoctorBooking_Backend\\Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-26T16:41:23.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251126164145_CreateInital.cs",
+              "DocumentMoniker": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\Migrations\\20251126164145_CreateInital.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20251126164145_CreateInital.cs",
+              "ToolTip": "C:\\Users\\USERR\\Desktop\\DoctorBooking_Backend\\Infrastructure\\Migrations\\20251126164145_CreateInital.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20251126164145_CreateInital.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:41:46.087Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
